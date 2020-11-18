@@ -6,7 +6,7 @@ Tacview is protected and cannot run when IL2 is running so to read the file you 
 Tacview is very usefull to display a lot information for your plane and also other object in game 
 Unfortunately i witnessed some strange behavior in multiplayer where other can track you from quite far away under very poor visibility condition or surprisingly detect you when you are in behing and below ( on their 6 slightly below), this lead me to think that some people must be using some other app to do that and Tacview is a suitable tool to do that.
 
-This app is a visual studio 2019 windows presentation form
+This app is a visual studio 2019 windows presentation form that demonstrate the possibility to use tacview generated file and gain advantage in multiplayer game.
 
 ![alt text](https://github.com/asietech/tacview_parser/blob/main/il21.png)
 
